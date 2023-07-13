@@ -1,0 +1,7 @@
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=true&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=true&animation=spin&&fill=58D68D)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp&text=true&animation=spin&&fill=CD5C5C)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=.net&text=true&animation=spin&&fill=#9FE2BF)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&text=true&animation=spin&&fill=DE3163)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&text=true&animation=spin&&fill=585CD6)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=bootstrap&text=true&animation=spin&&fill=CDC80F)
