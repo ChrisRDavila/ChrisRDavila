@@ -1,5 +1,6 @@
 ```js 
-hello there, my name is Christopher Davila welcome to my github
+hello there, my name is Christopher Davila
+welcome to my github
 ```
 
 ## <span style="background-color: #FFFF00">About me:</span>
