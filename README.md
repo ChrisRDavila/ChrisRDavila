@@ -29,7 +29,7 @@ welcome to my github
 
 <br>
 
-## You can connect with me via the following media and netwroking platforms 📲   📫   📧  :
+## You can connect with me via the following media and networking platforms 📲   📫   📧  :
 
 <p align="center"> 
  <a href="https://twitter.com/rossti2t" alt="Ross Davila twitter">
